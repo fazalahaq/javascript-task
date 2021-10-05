@@ -4,3 +4,7 @@ for(var i in arr);
     document.write(arr[i]+"<br>");
 }
 document.write(arr);
+
+
+// this is the how array is declared and we put for in loop on array to get the value in side the array 
+//decleration of the variable 
