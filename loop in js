@@ -6,19 +6,16 @@ else{
         document.write("yellow is not my favColor")
 }
 
-    
 
+var col ="yellow";
+for (var x in color) {
+     col = color[x] + "yellow";
+   }
+   document.write(col);
+ function find(color){
+     return color=yellow;
+ }
+ function findColor(){
+     color.find(findColor);
+ }
 
-
-// var col ="yellow";
-// for (var x in color) {
-//     col = color[x] + "yellow";
-//   }
-//   document.write(col);
-// function find(color){
-//     return color=yellow;
-// }
-// function findColor(){
-//     color.find(findColor);
-// }
-// 
